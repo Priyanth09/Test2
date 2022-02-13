@@ -1,0 +1,28 @@
+body {
+  background-color: #E9DAC1;
+  font-family: "system-ui" ;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  background-color: #E9DAC1;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 7px;
+  border-color: grey;
+
+}
+
+h1 {
+  color: #750550
+}
+
+h3 {color: #B33030}
+
+.Palm:hover {
+  font-style: italic;
+}
